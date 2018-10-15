@@ -1,2 +1,2 @@
 # hacktoberfest2018
-A react app for hacktober fest 2018
+Algorithms from different programming languages.
