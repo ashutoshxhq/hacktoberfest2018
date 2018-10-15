@@ -1,2 +1,2 @@
-# hacktoberfest2018
-Algorithms from different programming languages.
+# Sorthing Algorithms 
+Sorting Algorithms from different programming languages.
